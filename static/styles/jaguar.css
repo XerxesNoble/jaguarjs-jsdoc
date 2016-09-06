@@ -79,7 +79,7 @@ li {
 .navigation li.item .title .static {
   display: block;
   border-radius: 3px;
-  background-color: #779c34;
+  background-color: #9c3434;
   color: #000;
   font-size: 0.7em;
   padding: 2px 4px;
@@ -88,7 +88,7 @@ li {
 .navigation li.item .subtitle {
   margin-top: 10px;
   font: bold 0.65em Helvetica;
-  color: #779c34;
+  color: #9c3434;
   display: block;
 }
 .navigation li.item ul > li {
@@ -157,7 +157,7 @@ li {
 .main span.static {
   display: inline-block;
   border-radius: 3px;
-  background-color: #779c34 !important;
+  background-color: #9c3434 !important;
   color: #fff;
   font-size: 0.7em;
   padding: 2px 4px;
@@ -181,7 +181,7 @@ li {
 .main .subsection-title {
   font-size: 14px;
   margin-top: 30px;
-  color: #779c34;
+  color: #9c3434;
 }
 .main .description {
   margin-top: 10px;
